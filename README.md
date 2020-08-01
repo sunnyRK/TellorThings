@@ -20,6 +20,13 @@ Even using platform, Liquidity providers can manage pools like they can deposit 
  
 Platform also saves trade transaction history and provides all transaction details in a single place in platform.
 
+Let's see demo below....
+
+# Video Demo
+
+https://youtu.be/uxSmzLNj2pI  
+[![tellor+uniswap](tellorUniswap.png)](https://youtu.be/uxSmzLNj2pI "AutoTrade")
+
 ## How was it made?
 
 I have used Tellor Oracles and Uniswap-V2 protocol to build automated trading platform. InstCrypt is supporting a trading crypto pair using Uniswap smart contract and for fetch latest price feed from tellor oracles. So, Using platform liquidity providers can add and remove liquidity and traders can perform trade using smart contract. 
